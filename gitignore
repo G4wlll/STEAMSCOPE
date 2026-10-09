@@ -1,0 +1,19 @@
+# secrets and local data - never commit
+.steamscope.json
+.steam_osint.json
+*.key
+.env
+
+# generated reports (contain personal data)
+reports/
+steam_*.json
+steam_*.html
+steam_*.csv
+compare_*.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.cache/
