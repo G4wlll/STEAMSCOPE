@@ -73,7 +73,7 @@ Developer: **G4wlll** · [العربية](README.ar.md)
 **Option A - Git**
 ```bash
 git clone https://github.com/G4wlll/STEAMSCOPE.git
-cd SteamScope
+cd STEAMSCOPE
 ```
 
 **Option B - ZIP**
